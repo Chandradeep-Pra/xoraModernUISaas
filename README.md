@@ -65,8 +65,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/xora.git
-cd xora
+git clone https://github.com/Chandradeep-Pra/xoraModernUISaas.git
+cd xoraModernUISaas
 ```
 
 **Installation**
