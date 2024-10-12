@@ -12,6 +12,7 @@
   </div>
 
 <h3 align="center">Modern UI/UX SaaS Website <a href="https://stalwart-marshmallow-3ed087.netlify.app/">Xora is live</a> </h3>
+<h3 align="center">Design Inspiration : <a href="https://ui8.net/ui8/products/xora---saas-landing-page-kit>Design by UI8</a></h3>
 
 </div>
 
