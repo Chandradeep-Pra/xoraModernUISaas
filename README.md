@@ -84,7 +84,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
+Or check the deployed sit , [Xora](https://670a77dbc1ee792ea2a3cc9b--stalwart-marshmallow-3ed087.netlify.app/)
 
 
 #
